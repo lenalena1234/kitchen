@@ -808,7 +808,7 @@
         {
          "columns":48,
          "firstgid":257,
-         "image":"..\/tilesets\/atlas_32x.png",
+         "image":"atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -822,7 +822,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"..\/tilesets\/house_inside_1.png",
+         "image":"house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -835,7 +835,7 @@
         {
          "columns":32,
          "firstgid":1249,
-         "image":"..\/workadventure\/tilesets\/32x32Sci-Fitileset_tileset.png",
+         "image":"32x32Sci-Fitileset_tileset.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -848,7 +848,7 @@
         {
          "columns":16,
          "firstgid":1761,
-         "image":"..\/workadventure\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
