@@ -1037,6 +1037,42 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":119,
                  "properties":[
                         {
@@ -1047,6 +1083,15 @@
                 }, 
                 {
                  "id":135,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":141,
                  "properties":[
                         {
                          "name":"collides",
@@ -1104,7 +1149,7 @@
         {
          "columns":8,
          "firstgid":2017,
-         "image":"floortileset.png",
+         "image":"..\/map_map\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
