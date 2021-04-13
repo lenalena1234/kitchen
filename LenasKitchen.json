@@ -747,15 +747,6 @@
                         }]
                 }, 
                 {
-                 "id":181,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
                  "id":184,
                  "properties":[
                         {
@@ -825,15 +816,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":197,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
                         }]
                 }, 
                 {
@@ -1004,24 +986,6 @@
                         }]
                 }, 
                 {
-                 "id":640,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":641,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
                  "id":688,
                  "properties":[
                         {
@@ -1088,15 +1052,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":119,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
                         }]
                 }, 
                 {
