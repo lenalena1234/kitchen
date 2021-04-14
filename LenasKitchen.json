@@ -48,7 +48,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lenalena1234.github.io\/Bar\/"
+                 "value":"HiddenBar.json"
                 }],
          "type":"tilelayer",
          "visible":true,
